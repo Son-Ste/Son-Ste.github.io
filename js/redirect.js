@@ -1,3 +1,4 @@
 setTimeout(() => {
   window.location.replace("https://macfyno.com/app4");
-}, 3000);
+}, 2000);
+
